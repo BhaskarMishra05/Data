@@ -4,7 +4,6 @@ What is the salary distribution across industries? (helps in benchmarking)
 
 What are the top-paying job titles overall?
 
-Do bonuses significantly boost total compensation in certain roles/industries?
 
 Which countries or states pay above global/US median salary for the same job?
 
