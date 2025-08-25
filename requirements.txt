@@ -5,4 +5,5 @@ matplotlib
 ipykernel
 mysql-connector-python
 sqlalchemy
-ipython-sql         
+ipython-sql   
+PyMySQL      

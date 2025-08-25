@@ -4,10 +4,8 @@ What is the salary distribution across industries? (helps in benchmarking)
 
 What are the top-paying job titles overall?
 
-
 Which countries or states pay above global/US median salary for the same job?
 
-What is the wage gap between countries when adjusted for currency?
 
 
 
@@ -20,20 +18,7 @@ Do younger professionals in tech earn more than older professionals in non-tech?
 
 Are certain ethnicities underpaid compared to others, controlling for experience?
 
-Do men/women negotiate for bonuses differently? (bonus % gap)
-
 Does education level (Bachelor’s, Master’s, PhD) justify the pay gap?
-
-
-
-
-📍 Location Insights
-
-Which cities are “high salary hubs” for a specific role (e.g., data scientist)?
-
-Does remote work vs on-site location affect salaries? (if location can proxy)
-
-What is the cost of living adjusted salary difference (if external CoL data is added)?
 
 
 
@@ -41,12 +26,7 @@ What is the cost of living adjusted salary difference (if external CoL data is a
 
 How much does pay grow after X years in a domain? (career trajectory)
 
-Is switching industries early in a career associated with higher/lower pay?
-
 At what experience level do salaries plateau in certain industries? (career ceiling)
-
-What is the ROI of higher education (Master’s/PhD vs staying with Bachelor’s)?
-
 
 
 🔎 Job Market Strategy
