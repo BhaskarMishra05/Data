@@ -1,6 +1,7 @@
 pandas 
 numpy
 seaborn
+docx
 matplotlib
 ipykernel
 mysql-connector-python
